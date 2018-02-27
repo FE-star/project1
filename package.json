@@ -1,0 +1,26 @@
+{
+  "name": "project1",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FE-star/project1.git"
+  },
+  "author": "Daniel Yang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FE-star/project1/issues"
+  },
+  "homepage": "https://github.com/FE-star/project1#readme",
+  "dependencies": {
+    "htmlparser2": "^3.9.2",
+    "indent-string": "^3.2.0"
+  }
+}
